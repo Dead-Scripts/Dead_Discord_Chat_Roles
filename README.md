@@ -1,4 +1,5 @@
 ### DiscordChatRoles
+[![Developer Discord]](https://discord.gg/m39AUuSatU)
 
 #### Installation Information:
 
